@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **SulisIndriyani**.<br>
 saya dari teknik informatika.<br> 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/sulis-indriyani-968231308) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sulis-indriyani/) ku ya. 
  
 ### Github Statistic
 <p align="left">
